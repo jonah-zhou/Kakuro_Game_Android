@@ -71,7 +71,7 @@
             android:layout_height="wrap_content"
             android:text="No account? Click to register"
             android:gravity="center"
-            android:textColor="#007FFF"
+            android:textColor="#9C27B0"
             android:textStyle="bold"
             android:paddingTop="8dp"
             android:onClick="onRegisterClick" />
@@ -89,7 +89,7 @@
             android:layout_height="wrap_content"
             android:text="Or play as a guest"
             android:gravity="center"
-            android:textColor="#007FFF"
+            android:textColor="#FF9C27B0"
             android:textStyle="bold"
             android:paddingTop="8dp" />
         <!-- Guest Button -->
